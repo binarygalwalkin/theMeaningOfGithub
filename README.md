@@ -1,7 +1,7 @@
 # The Meaning Of Github
 
 
-## This is github repository. 
+## This is a github repository. 
 ## There are many like it, but this one is mine. 
 ## It is my life. 
 ## I must master it as I must master my life. 
